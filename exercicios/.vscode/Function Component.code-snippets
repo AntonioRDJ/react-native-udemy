@@ -1,0 +1,19 @@
+{
+	"Function Component": {
+		"scope": "javascriptreact,typescriptreact",
+		"prefix": "funcComp",
+		"body": [
+			"import { Text } from 'react-native'",
+			"import Styled from './estilo'",
+			"",
+			"export const Component = () => {",
+			"  return (",
+			"    <>",
+			"      <Text style={Styled.txtG}>Test</Text>",
+			"    </>",
+			"  );",
+			"}",
+		],
+		"description": "Create Function Component"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "tasks2"
+		},
+		{
+			"path": "../tasks-backend"
+		}
+	],
+	"settings": {}
+}
